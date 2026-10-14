@@ -115,7 +115,7 @@ tests/      pytest suite (synthetic data, offline)
 app.py  cli_scan.py
 ```
 
-## Limitations
+## Limitations/working on 
 
 * Accuracy is unmeasured until you train, calibrate and evaluate on real data.
 * Conformal guarantees assume test data resembles the calibration data;
